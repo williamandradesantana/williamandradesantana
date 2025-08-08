@@ -29,19 +29,19 @@
 
 ### My social Media
 <div>
-    <a href="https://twitter.com/wbsfps" target="_blank" rel="external"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Imagem twitter"></a>
+    <a href="https://twitter.com/williamandradesantana" target="_blank" rel="external"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Imagem twitter"></a>
     <a href="https://www.linkedin.com/in/william-andrade-78b4a6219/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Imagem linkedin"></a>
   <a href="https://www.twitch.tv/wbs12_" target="_blank" rel="external" ><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Imagem twitch"></a>
 </div>
 
 ### Stats
 <p align="center">
-<a href="https://github.com/wbsfps">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wbsfps&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wbsfps&layout=compact&langs_count=8&theme=radical"/>
+<a href="https://github.com/williamandradesantana">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=williamandradesantana&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=williamandradesantana&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
 <p align="center">
   
-[![wbsfps's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wbsfps&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![williamandradesantana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=williamandradesantana&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
