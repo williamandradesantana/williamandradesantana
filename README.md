@@ -8,7 +8,7 @@
 </div>
 
 ### Some Facts
-* 🌱 I’m currently learning Java and JavaScript
+* 🌱 I’m currently learning Java and Python
 * 💬 Ask me about anything
 * 📫 How to reach me: You can send me a personal <williamandrade1058@gmail.com>
 * ⚡ Fun fact:
@@ -20,7 +20,8 @@
 
 <div align="center" display:"flex">
   <p align="center">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/python-2571E8?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-2571E8?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
