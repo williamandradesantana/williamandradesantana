@@ -41,8 +41,3 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=williamandradesantana&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=williamandradesantana&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-
-<p align="center">
-  
-[![williamandradesantana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=williamandradesantana&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
