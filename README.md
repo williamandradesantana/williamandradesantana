@@ -19,12 +19,15 @@
 
 <div align="center" display:"flex">
   <p align="center">
-<img src="https://img.shields.io/badge/python-2571E8?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/django-2571E8?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/-ReactJs-00006a?logo=react&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/python-2571E8?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/django-2571E8?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ReactJs-00006a?logo=react&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   </p>
   </div>         
 
