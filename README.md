@@ -21,7 +21,7 @@ My main interests are **backend development, REST APIs, databases, and
 software architecture**.
 
 I'm currently working with technologies from the **Java/Spring Boot,
-C#/.NET, and Python/Django ecosystems**.
+C#/.NET**.
 
 ---
 
